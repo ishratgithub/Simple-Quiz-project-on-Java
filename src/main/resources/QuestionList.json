@@ -1,0 +1,113 @@
+[
+  {
+    "Answer": "a",
+    "Option a": "Unit Testing",
+    "Option b": "Integration Testing",
+    "Option c": "Sanity Testing",
+    "Option d": "Regression Testing",
+    "Question": "Which testing is done by developer?"
+  },
+  {
+    "Answer": "c",
+    "Option a": "Equivalent Partitioning",
+    "Option b": "Boundary value testing",
+    "Option c": "Decision table testing",
+    "Option d": "Adhoc Testing",
+    "Question": "Which is whitebox testing technique?"
+  },
+  {
+    "Answer": "d",
+    "Option a": "4",
+    "Option b": "5",
+    "Option c": "6",
+    "Option d": "7",
+    "Question": "How many Principles are there in Software Testing?"
+  },
+  {
+    "Answer": "d",
+    "Option a": "System Testing",
+    "Option b": "Integration testing",
+    "Option c": "Component testing",
+    "Option d": "Maintenance testing",
+    "Question": "The _______ testing should include operational tests of the new environment as well as of the changed software"
+  },
+  {
+    "Answer": "d",
+    "Option a": "Test Case",
+    "Option b": "Requirements Traceability Matrix [RTM]",
+    "Option c": "Test strategy",
+    "Option d": "",
+    "Question": "Which of the following is not part of the Test document?"
+  },
+  {
+    "Answer": "b",
+    "Option a": "Test planning and control",
+    "Option b": "Requirement Analysis",
+    "Option c": "Test implementation and execution",
+    "Option d": "Evaluating exit criteria",
+    "Question": "Which is not in fundamental test process?"
+  },
+  {
+    "Answer": "c",
+    "Option a": "Equivalence Partitioning",
+    "Option b": "Boundary Value Testing",
+    "Option c": "Branch Testing",
+    "Option d": "State Transition",
+    "Question": "What is not the blackbox testing strategy?"
+  },
+  {
+    "Answer": "a",
+    "Option a": "Validation Techniques",
+    "Option b": "Verification Techniques",
+    "Option c": "Both of the above",
+    "Option d": "None of the above",
+    "Question": "Dynamic testing is mainly?"
+  },
+  {
+    "Answer": "c",
+    "Option a": "Feature Test",
+    "Option b": "Integration Test",
+    "Option c": "Re-Test",
+    "Option d": "Regression Test",
+    "Question": "Developer fixed an issue and told you to test the feature. What is thetesting type?"
+  },
+  {
+    "Answer": "c",
+    "Option a": "Requirement Analysis",
+    "Option b": "Assign task to QA team",
+    "Option c": "Writing Testcase",
+    "Option d": "Writing user manual",
+    "Question": "Which of the following is an example of a task that can be carried out as part of the test process?"
+  },
+  {
+    "Answer": "d",
+    "Option a": "Equivalent partitioning",
+    "Option b": "Boundary value analysis",
+    "Option c": "While doing automation",
+    "Option d": "Test procedure planning",
+    "Question": "Test data planning is included when?"
+  },
+  {
+    "Answer": "c",
+    "Option a": "Error",
+    "Option b": "Bug",
+    "Option c": "Fault",
+    "Option d": "Failure",
+    "Question": "What is missing requirement?"
+  },
+  {
+    "Answer": "b",
+    "Option a": "The fault",
+    "Option b": "The failure",
+    "Option c": "The error",
+    "Option d": "The defect",
+    "Question": "Suppose, you visit the HSC result publishing site to see the result of your younger brother\\sister. But you see that site is down. What is the reason?"
+  },
+  {
+    "Answer": "a",
+    "Option a": "Preventing defects",
+    "Option b": "Repairing defects",
+    "Option c": "Comparing actual results to expected results",
+    "Option d": "Analyzing the cause of failure",
+    "Question": "Which of the following is a typical test objective?"
+  }]
