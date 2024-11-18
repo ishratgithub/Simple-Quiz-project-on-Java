@@ -109,4 +109,13 @@ JSON Format:
     "option 2": "execution"
     
   }
+  {
+    "answerkey": 4,
+    "option 3": "Concatenated Loops",
+    "option 4": "All of the above",
+    "question": "Loop Testing methodology includes which of the following.",
+    "option 1": "Simple Loops",
+    "option 2": "Nested Loops"
+  }]
+  
   
